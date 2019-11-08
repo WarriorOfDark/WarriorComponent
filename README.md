@@ -1,2 +1,2 @@
 # WarriorComponent
-components
+TS-components
